@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ortizzxz
-- 👀 I’m interested in Full Stack Development - Focused on Java and Spring (BaackEnd) 
+- 👀 I’m interested in Full Stack Development - Focused on Java and Spring (BackEnd) 
 - 🌱 I’m currently learning Java / MySQL / Oracle / FrontEnd. 
 - 📫 How to reach me on LinkedIn: www.linkedin.com/in/jesusdortizreyes
 <!---
