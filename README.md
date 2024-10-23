@@ -16,7 +16,7 @@ the technologies i use on a daily basis and contribute to projects.
 ## Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,js,mysql,nodejs,react,symfony,tailwind,vue,laravel" />
+<img src="https://skillicons.dev/icons?i=java,php,docker,js,mysql,nodejs,react,tailwind,vue" />
 </div>
 
 ## Statistics
