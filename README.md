@@ -16,7 +16,7 @@ My personal principles are Writing and Delivering clean code and always aiming t
 as SOLID or Clean - yes, better spend the time now and not having to worry tomorrow about your code.
 
 Apart from the languages mentioned, I'm also currently learning and deepening my knowledge on Architectures 
-and Design Patterns. The ones mentioned being highly interested for me, because as a Backend developer aiming 
+and Design Patterns. Those mentioned being highly interesting for me, because as a Backend developer aiming 
 for cost-effective Software has to be a mandatory personal value.  
 
 ## Skills
