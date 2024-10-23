@@ -1,8 +1,7 @@
 # Jesús Ortiz
 
-*   🔭 Software Developer with strong interests on the Backend
-*   🌱 Currently learning PHP and JS.
-*   📫 Contact links above
+*   🔭 Software Developer student with strong interests on the Backend.
+*   🌱 Currently deepening on PHP and JS.
 
 <div align="center">
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ortizzxz&show_icons=true&locale=en&theme=transparent" alt="ortizzxz"/></p>
@@ -11,7 +10,14 @@
 ## Introduction
 
 I'm a Web Development student, looking for the opportunity to expand my knowledge on 
-the technologies i use on a daily basis and contribute to projects.
+the technologies i use on a daily basis and contribute to projects. 
+
+My personal principles are Writing and Delivering clean code and always aiming to make use of principles such 
+as SOLID or Clean - yes, better spend the time now and not having to worry tomorrow about your code.
+
+Apart from the languages mentioned, I'm also currently learning and deepening my knowledge on Architectures 
+and Design Patterns. The ones mentioned being highly interested for me, because as a Backend developer aiming 
+for cost-effective Software has to be a mandatory personal value.  
 
 ## Skills
 
