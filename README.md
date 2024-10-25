@@ -5,6 +5,7 @@
 
 <div align="center">
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ortizzxz&show_icons=true&locale=en&theme=transparent" alt="ortizzxz"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ortizzxz&theme=transparent" alt="ortizzxz" /></p>
 </div>
 
 ## Introduction
