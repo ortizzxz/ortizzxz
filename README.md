@@ -28,7 +28,7 @@ for cost-effective Software has to be a mandatory personal value.
 ## Statistics
 
 <div align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ortizzxz&show_icons=true&locale=en&rank_icon=github&theme=transparent" alt="ortizzxz" /></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ortizzxz&theme=transparent" alt="ortizzxz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ortizzxz&show_icons=true&locale=en&rank_icon=github&theme=transparent" alt="ortizzxz" /></p>
 </div>
 
 ## Contact
