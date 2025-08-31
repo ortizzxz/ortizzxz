@@ -1,28 +1,16 @@
 # Jesús Ortiz
 
-*   🔭 Software Developer student with strong interests on the Backend.
-*   🌱 Currently deepening my learning on PHP and JS.
+*   🌱 Founder of Studenzy. The first real student driven Marketplace.
+*   🔭 Developing solutions to contribute with society.
 
 <div align="center">
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ortizzxz&show_icons=true&locale=en&theme=transparent" alt="ortizzxz"/></p>
 </div>
 
-## Introduction
-
-I'm a Web Development student, looking for the opportunity to expand my knowledge on 
-the technologies i use on a daily basis and contribute to projects. 
-
-My personal principles are Writing and Delivering clean code and always aiming to make use of principles such 
-as SOLID or Clean - yes, better spend the time now and not having to worry tomorrow about your code.
-
-Apart from the languages mentioned, I'm also currently learning and deepening my knowledge on Architectures 
-and Design Patterns. Those mentioned being highly interesting for me, because as a Backend developer aiming 
-for cost-effective Software has to be a mandatory personal value.  
-
 ## Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,php,docker,js,mysql,nodejs,react,tailwind,spring" />
+<img src="https://skillicons.dev/icons?i=java,express,docker,ts,mysql,nodejs,react,tailwind,spring" />
 </div>
 
 ## Statistics
