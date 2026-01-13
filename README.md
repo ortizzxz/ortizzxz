@@ -13,12 +13,6 @@
 <img src="https://skillicons.dev/icons?i=java,ts,spring,react,mysql,tailwind" />
 </div>
 
-## Statistics
-
-<div align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ortizzxz&show_icons=true&locale=en&rank_icon=github&theme=transparent" alt="ortizzxz" /></p>
-</div>
-
 ## Contact
 
 <div align="center">
