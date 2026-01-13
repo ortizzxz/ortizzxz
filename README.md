@@ -10,7 +10,7 @@
 ## Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,express,docker,ts,mysql,nodejs,react,tailwind,spring" />
+<img src="https://skillicons.dev/icons?i=java,ts,spring,react,mysql,tailwind" />
 </div>
 
 ## Statistics
