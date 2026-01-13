@@ -1,6 +1,6 @@
 # Jesús Ortiz
 
-*   🌱 ytring to build the first real student driven Marketplace.
+*   🌱 Trying to build the first real student driven Marketplace.
 *   🔭 Developing solutions to contribute with society.
 
 <div align="center">
