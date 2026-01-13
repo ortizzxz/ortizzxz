@@ -1,6 +1,6 @@
 # Jesús Ortiz
 
-*   🌱 Founder of Studenzy. The first real student driven Marketplace.
+*   🌱 ytring to build the first real student driven Marketplace.
 *   🔭 Developing solutions to contribute with society.
 
 <div align="center">
