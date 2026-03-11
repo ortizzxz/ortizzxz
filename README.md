@@ -1,16 +1,9 @@
 # Jesús Ortiz
-
-*   🌱 Trying to build the first real student driven Marketplace.
-*   🔭 Developing solutions to contribute with society.
-
-<div align="center">
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ortizzxz&show_icons=true&locale=en&theme=transparent" alt="ortizzxz"/></p>
-</div>
+* Hi, I like to code for fun and find out new technologies to try out. 
 
 ## Skills
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,ts,spring,react,mysql,tailwind" />
+<img src="https://skillicons.dev/icons?i=java,ts,spring,react,mysql,tailwind,sequelize,next" />
 </div>
 
 ## Contact
